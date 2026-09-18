@@ -3,3 +3,11 @@ body {
   min-height: 100vh;
   font-family: Georgia, 'Times New Roman', Times, serif
 }
+
+h1 {
+
+font-weight: 300;
+color:red;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+}
